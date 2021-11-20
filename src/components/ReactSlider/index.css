@@ -1,0 +1,8 @@
+.slider-container {
+  margin: 0px 180px 100px 180px;
+}
+.carousel-image {
+  height: 300px;
+  width: 100%;
+  border-radius: 8px;
+}

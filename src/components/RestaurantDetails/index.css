@@ -1,0 +1,129 @@
+.restaurant-con {
+  height: 344px;
+  color: white;
+  background-color: #333333;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.restaurant-details-con {
+  margin: 32px 0px 32px 165px;
+
+  display: flex;
+  align-items: center;
+}
+.restaurant-details-image {
+  margin-right: 30px;
+  width: 445px;
+  height: 280px;
+  border-radius: 8px;
+}
+.restaurant-details-text-con {
+  height: 200px;
+}
+.restaurant-details-restaurant-name {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  margin-bottom: 12px;
+}
+.restaurant-details-restaurant-cuisine {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.restaurant-details-restaurant-location {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  margin: 0px;
+}
+.restaurant-details-rating-and-cost-con {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 300px;
+  margin-top: 16px;
+}
+.restaurant-details-rating-con {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+}
+.restaurant-details-rating-text {
+  margin: 0px 0px 0px 5px;
+}
+.restaurant-details-reviews-text {
+  margin: 0px;
+  font-size: 12px;
+}
+.restaurant-details-cost-text {
+  margin: 0px;
+}
+.restaurant-details-cost-for-two-text {
+  margin: 0px;
+  font-size: 12px;
+}
+
+.h-line-details {
+  height: 33px;
+
+  margin: 0px;
+  padding: 0px;
+}
+.restaurant-details-rating-and-reviews-con {
+  margin: 0px;
+  padding: 0px;
+}
+.restaurant-details-cost-con {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin: 0px;
+}
+.food-items-card-con {
+  width: 80vw;
+  margin: 64px auto auto auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+.failure-view-page-not-found {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  color: #1e293b;
+}
+.failure-view-para {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #475569;
+}
+.home-page-button {
+  width: 123px;
+  height: 48px;
+  border: solid white 0px;
+  border-radius: 8px;
+  background-color: #f7931e;
+  color: #ffffff;
+  cursor: pointer;
+}
+.failure-view-image {
+  width: 270px;
+  height: 300px;
+}
+.failure-view-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,62 @@
+.food-item-card-container {
+  display: flex;
+
+  margin: 0px 70px 32px 50px;
+
+  width: 30vw;
+}
+
+.food-item-image {
+  width: 255px;
+  height: 150px;
+  border-radius: 8px;
+  margin-right: 30px;
+}
+.food-item-text {
+  height: 150px;
+}
+.food-item-name {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+}
+.food-item-cost-con {
+  display: flex;
+  align-items: center;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.food-item-cost {
+  margin: 0px;
+}
+
+.food-item-rating-con {
+  display: flex;
+  align-items: center;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+
+  margin-bottom: 5px;
+}
+.food-item-star {
+  color: #ffcc00;
+  margin: 0px 5px px 0px;
+}
+.food-item-rating-text {
+  margin: 0px;
+}
+.food-item-add-button {
+  color: #ffa412;
+  border: solid #ffa412 2px;
+  border-radius: 8px;
+  font-size: 12px;
+  padding: 5px 12px 5px 12px;
+  background-color: #ffffff;
+  cursor: pointer;
+}

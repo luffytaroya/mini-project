@@ -1,0 +1,51 @@
+.popular-restaurants-container {
+  margin: 0px 150px 0px 220px;
+  width: 80vw;
+}
+.h-line {
+  margin: 0px 120px 48px 0px;
+}
+.restaurant-cards-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+  margin-right: 80px;
+  padding: 0px;
+}
+.loader-container{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+.arrows-container {
+  display: flex;
+  align-items: center;
+  width: 75vw;
+  padding: 40px 0px 40px 0px;
+  justify-content: center;
+}
+.icon-button-con {
+  padding: 5px;
+  border: solid black 1px;
+  background-color: white;
+  cursor: pointer;
+}
+.page-number-para {
+  margin: 0px 5px 0px 5px;
+  color: #334155;
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
+.popular-restaurants-text {
+  color: #183b56;
+}
+
+.para-and-sort {
+  display: flex;
+  justify-content: space-between;
+  width: 70vw;
+}

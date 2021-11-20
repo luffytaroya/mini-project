@@ -1,0 +1,100 @@
+@media screen and (min-width: 1440px) {
+  .login-form-and-form-container {
+    width: 100vw;
+  }
+  .website-login {
+    position: absolute;
+    width: 705px;
+    height: 1024px;
+    left: 735px;
+    top: 0px;
+  }
+  .website-logo {
+    width: 49px;
+    height: 39px;
+  }
+  .form-container {
+    position: absolute;
+    width: 456px;
+    height: 523px;
+    left: 165px;
+    top: 250px;
+    background: #fefeff;
+    box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .password-input-field {
+    width: 360px;
+    height: 40px;
+    background: #e2e8f0;
+    border: solid white 0px;
+    border-radius: 2px;
+    margin-top: 8px;
+    outline: none;
+    padding-left: 15px;
+  }
+  .username-input-field {
+    width: 360px;
+    height: 40px;
+    background: #e2e8f0;
+    border: solid white 0px;
+    border-radius: 2px;
+    margin-top: 8px;
+    margin-bottom: 24px;
+    outline: none;
+    padding-left: 15px;
+  }
+  .username-password-label {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    letter-spacing: 0.01em;
+    color: #475569;
+    margin-bottom: 8px;
+    line-height: 16px;
+    margin-top: 0px;
+  }
+  .tasty-kitchens {
+    font-family: 'DM Sans';
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+    color: #f7931e;
+    margin-bottom: 0px;
+  }
+  .login-button {
+    background: #f7931e;
+    border-radius: 8px;
+    width: 360px;
+    height: 40px;
+    border: solid white 0px;
+    margin-top: 24px;
+  }
+  .login-name {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+    color: #0f172a;
+  }
+  .error-msg-con {
+    display: flex;
+    justify-content: flex-start;
+    width: 360px;
+  }
+  .error-message {
+    margin: 5px 0px 0px 0px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #ef4444;
+  }
+}

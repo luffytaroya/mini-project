@@ -1,0 +1,19 @@
+.counter-container {
+  display: flex;
+}
+.decrease-button {
+  background-color: #ffffff;
+  color: #3e4c59;
+  border: solid #3e4c59 1px;
+  cursor: pointer;
+}
+.increase-button {
+  background-color: #ffffff;
+  color: #3e4c59;
+  border: solid #3e4c59 1px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.quantity-value {
+  margin: 0px 5px 0px 5px;
+}

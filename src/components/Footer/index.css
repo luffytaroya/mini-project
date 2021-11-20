@@ -1,0 +1,59 @@
+.footer-container {
+  height: 424px;
+  background-color: #0f172a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.items-con {
+  text-align: center;
+}
+.icons {
+  display: flex;
+  color: #ffffff;
+  justify-content: center;
+  padding: 20px;
+}
+.icon {
+  width: 60px;
+  height: 60px;
+  padding: 10px;
+}
+.tasty-kitchens {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: bold;
+  font-size: 32px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+.para-one {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+.para-two {
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  color: #ffffff;
+}
+.footer-website-logo-and-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  color: #ffffff;
+}
+.website-footer-logo {
+  color: #ffffff;
+  margin-right: 16px;
+}
